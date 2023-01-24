@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 슈퍼챌린지 해커톤
 
 ## work
-- 쿠팡 Golbal Operations
+- 쿠팡 Global Operations
 - LG 전자 PainPoint
 - IBK 기업은행 디지털혁신본부
 
