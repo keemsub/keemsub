@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 - SKT AI 커리큘럼 수료
 - Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
 - 현대자동차 데이터 분석 공모전
-- S&OP 경진대회
-- 슈퍼챌린지 해커톤
+- 슈퍼챌린지 해커톤 사용자 연결 APP MVP Model
+- 대한산업공학회 18회 경진대회 - 비전 딥러닝을 활용한 Wafer Edge-case Defect 분류기
 
 ## work
 - 쿠팡 Global Operations
@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Award
 - Spatio-Temporal Data Prediction, AI Challenge(우수상)
-- 인하대 공학계열 창의영역 우수인재 
+- 인하대 공학계열 창의영역 우수인재
 
 ## Project
 - Data-Driven 그린 마일리지 프로젝트
