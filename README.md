@@ -1,5 +1,5 @@
 # 👋 Hi
-- 👀 interested in Data Analysis, AI, SCM
+- 👀 interested in Data Analysis, AI, DX
 
 <!---
 keemsub/keemsub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
