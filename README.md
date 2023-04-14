@@ -33,3 +33,7 @@ You can click the Preview link to take a look at your changes.
 - Flight Delay Prediction 프로젝트
 - ASR Task 선행 기술 연구 조사 프로젝트
 - Wafer Edge-case Defect Classification using by Deep learning Modeling 프로젝트
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=keemsub)](https://solved.ac/keemsub)
+
+
