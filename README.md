@@ -19,9 +19,10 @@ You can click the Preview link to take a look at your changes.
 - 대한산업공학회 18회 경진대회 - 비전 딥러닝을 활용한 Wafer Edge-case Defect 분류기
 
 ## Work
-- 쿠팡 Global Operations
-- LG 전자 PainPoint
-- IBK 기업은행 디지털혁신본부
+- 쿠팡 Global Operations(20/04~12)
+- LG 전자 PainPoint(21/07~08)
+- IBK 기업은행 디지털혁신본부(23/01~02)
+- SK Inc Materials CIC DT Group Software Engineer(23/06~)
 
 ## Award
 - Spatio-Temporal Data Prediction, AI Challenge(우수상)
