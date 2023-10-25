@@ -8,14 +8,11 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keemsub&layout=compact)](https://github.com/keemsub/github-readme-stats)
 
-## education
-- 인하대학교 산업경영공학과
-
 ## International activities
-- SKT AI 커리큘럼 수료
+- SKT AI curriculum
 - Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
-- 현대자동차 2022 해카톤
-- 슈퍼챌린지 해커톤 사용자 연결 APP MVP Model
+- 현대자동차 2022 해카톤 - 1차 소스코드 예선 합격, 결선 전체 5등
+- 슈퍼챌린지 해커톤 - 사용자 연결 APP MVP Model
 - 대한산업공학회 18회 경진대회 - 비전 딥러닝을 활용한 Wafer Edge-case Defect 분류기
 
 ## Work
@@ -27,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ## Award
 - Spatio-Temporal Data Prediction, AI Challenge(우수상)
 - 현대차 데이터 분석 공모전 입상
-- 인하대 공학계열 창의영역 우수인재
+- Inha univ 공학계열 창의영역 우수인재
 
 ## Project
 - Data-Driven 그린 마일리지 프로젝트
