@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ## Work
 - 쿠팡 Global Operations(20/04~12)
 - LG 전자 PainPoint(21/07~08)
-- 
+  
 - IBK 기업은행 디지털혁신본부(23/01~02)
   [행내 경영실적 데이터 분석 Project]
   ▶ 데이터 시각화를 통한 경영실적 주요 변수추출
