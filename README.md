@@ -1,5 +1,8 @@
 # 👋 안녕하세요, 저는
 - 👀 interested in Data Analysis, AI, DX
+  
+📫 Instagram : https://www.instagram.com/keemsub/
+💻 LinkedIn : [[https://www.linkedin.com/in/yongsik-jo-9ba912220/](https://www.linkedin.com/in/%EB%AF%BC%EC%84%AD-%EA%B9%80-a913b3277/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%AD-%EA%B9%80-a913b3277/)
 
 <!---
 keemsub/keemsub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,9 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏃International activities
 - SKT AI curriculum
-- Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
-- 슈퍼챌린지 해커톤 - 사용자 연결 APP MVP Model 개발
-- 대한산업공학회 18회 경진대회 - 딥러닝을 활용한 Wafer Edge-case Defect 분류기 모델
+- Operations Research & Artificial Intelligence Lab Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
+- 슈퍼챌린지 해커톤 -> 사용자 연결 APP MVP Model dev
+- 대한산업공학회 18회 경진대회 -> 딥러닝을 활용한 Wafer Edge-case Defect 분류
+
+## 🏆Award
+- Spatio-Temporal Data Prediction, AI Challenge(우수상)
+- 현대차 데이터 분석 공모전 입상
+- Inha univ 공학계열 창의영역 우수인재
 
 ## 👨🏻‍💻Work
 - Coupang Global Operations(20/04~12)
@@ -62,9 +70,3 @@ You can click the Preview link to take a look at your changes.
   - Spread eCOA Automation(Samsung, SKHY) * Ongoing Project
     
   ▶ SAP Automation, Data Preprocessing(Pandas)
-
-## 🏆Award
-- Spatio-Temporal Data Prediction, AI Challenge(우수상)
-- 현대차 데이터 분석 공모전 입상
-- Inha univ 공학계열 창의영역 우수인재
-
