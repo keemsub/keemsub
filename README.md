@@ -2,7 +2,8 @@
 - 👀 interested in Data Analysis, AI, DX
   
 📫 Instagram : https://www.instagram.com/keemsub/
-💻 LinkedIn : [[https://www.linkedin.com/in/yongsik-jo-9ba912220/](https://www.linkedin.com/in/%EB%AF%BC%EC%84%AD-%EA%B9%80-a913b3277/)](https://www.linkedin.com/in/%EB%AF%BC%EC%84%AD-%EA%B9%80-a913b3277/)
+
+💻 LinkedIn : linkedin.com/in/민섭-김-a913b3277
 
 <!---
 keemsub/keemsub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
