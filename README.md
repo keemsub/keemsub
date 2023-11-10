@@ -15,12 +15,15 @@ You can click the Preview link to take a look at your changes.
 - 대한산업공학회 18회 경진대회 - 딥러닝을 활용한 Wafer Edge-case Defect 분류기 모델
 
 ## 👨🏻‍💻Work
-- 쿠팡 Global Operations(20/04~12)
-- LG 전자 PainPoint(21/07~08)
+- Coupang Global Operations(20/04~12)
+- LG 전자 Team PainPoint(21/07~08)
   
 - IBK 기업은행 디지털혁신본부(23/01~02)
-  [행내 경영실적 데이터 분석 Project]
+  
+  - 행내 경영실적 데이터 분석 Project
+  
   ▶ 데이터 시각화를 통한 경영실적 주요 변수추출
+  
   ▶ 테블릿 브런치 시스템 UI/UX 개선 및 우수인턴 선정
   
 - SK Inc Materials CIC DT Group Software Engineer(23/06~)
