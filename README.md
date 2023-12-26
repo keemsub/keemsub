@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   
 - SK Inc Materials CIC DT Group Software Engineer(23/06~)
 1. Discover and Fulfill Digital Transformation(DX)
-2. RPA Program Development(e.g yolo, OCR, ML ...)
+2. RPA Program Development
 3. Data Analysis and PreProcessing(Wrangling)
 
   [Ongoing Project]
