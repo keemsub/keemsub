@@ -29,6 +29,8 @@ You can click the Preview link to take a look at your changes.
   <br>
 </div>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)
+
 ## 🏃International activities
 - SKT AI curriculum
 - Operations Research & Artificial Intelligence Lab Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
