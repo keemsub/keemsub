@@ -1,9 +1,7 @@
 # 👋 안녕하세요, 저는
-- 👀 interested in Data Analysis, AI
   
 📫 Instagram : https://www.instagram.com/keemsub/
-
-💻 LinkedIn : [linkedin.com/in/민섭-김-a913b3277](https://www.linkedin.com/in/%EB%AF%BC%EC%84%AD-%EA%B9%80-a913b3277/)
+💻 LinkedIn : [linkedin.com/in/keemsub](https://www.linkedin.com/keemsub)
 
 <div align=center><h2>📚 STACKS</h2></div>
 <div align=center> 
@@ -31,15 +29,14 @@
 
 ## 🏆Award
 - Spatio-Temporal Data Prediction, AI Challenge(우수상)
-- 현대차 데이터 분석 공모전 입상
-- Inha univ 공학계열 창의영역 우수인재
-
+- SK AI learn 철근단가 예측 종합 5등
+  
 ## 👨🏻‍💻Work
 - Coupang Global Operations(20/04~12)
 - LG 전자 Team PainPoint(21/07~08)
 - Operations Research & Artificial Intelligence Lab Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
 - IBK 기업은행 디지털혁신본부(23/01~02)
-- SK Inc Materials CIC DT Group Software Engineer(23/06~)
-1. Discover and Fulfill Digital Transformation(DX)
+- SK Inc Materials CIC DT Group, System&Solution Team, Data Engineer(23/06~)
+1. Discover and Fulfill Digital Transformation(DX)
 2. Data Analysis, Wrangling, Modeling
-3. 소재 생산, 공정 최적화, 품질관리, R&D 데이터 관리를 위한 System, Solution, RPA 개발
+3. 생산 및 공정 최적화, 품질관리, R&D 데이터 관리를 위한 System, Solution, RPA 개발
