@@ -31,7 +31,7 @@
 ## 🏆Award
 - Spatio-Temporal Data Prediction, AI Challenge(우수상)
 - 현대자동차 고객 행동 데이터 분석 공모전 입상
-- SK AI learn 철근단가 예측 종합 5등
+- SK AI learn 철근단가 예측 전사 5등
   
 ## 👨🏻‍💻Work
 - Coupang Global Operations(20/04~12)
