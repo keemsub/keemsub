@@ -34,12 +34,7 @@
 - SK AI learn 철근단가 예측 전사 5등
   
 ## 👨🏻‍💻Work
-- Coupang Global Operations(20/04~12)
-- LG 전자 Team PainPoint(21/07~08)
 - Operations Research & Artificial Intelligence Lab Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
 - IBK 기업은행 디지털혁신본부(23/01~02)
 - SK Inc Materials CIC DT Group, System&Solution Team, DX Engineer(23/06~)
-1. Discover and Fulfill Digital Transformation(DX)
-2. AI OCR 플랫폼, LLM 업무 효율화 챗봇 개발
-3. Data Analysis, Wrangling, Modeling
-4. SCM/Package 공정 관리(SPC) System, RPA 개발
+- SSG.COM 가격최적화/수요예측 Data Scientist
