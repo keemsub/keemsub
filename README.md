@@ -36,5 +36,5 @@
 ## 👨🏻‍💻Work
 - Operations Research & Artificial Intelligence Lab Undergraduate research student, ORAIL (https://sites.google.com/inha.ac.kr/orail/home)
 - IBK 기업은행 디지털혁신본부(23/01~02)
-- SK Inc Materials CIC DT Group, System&Solution Team, Data Engineer(23/06~)
-- SSG.COM 가격최적화/수요예측 Data Scientist
+- SK Inc Materials CIC DT Group, System&Solution Team, Data Engineer(23/06~25/06)
+- SSG.COM 가격최적화/수요예측 Data Scientist(25/07~)
